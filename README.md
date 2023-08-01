@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kanak Raj (@kanak8278)
 - 👀 I’m interested in Deep Learning and Software Engineering.
-- 🌱 I’m currently learning about Privacy Enhancing Technologies and currently a padawan at OpenMined
+- 🌱 I’m a visiting researcher at Societal Computing Lab, Saarland University.
 - 💞️ I’m looking to collaborate on Deep Learning projects. 
 - 📫 How to reach me at kanak8278@gmail.com
 
